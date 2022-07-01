@@ -4,7 +4,7 @@
 </p>
 
 #### The Waybil Buyer App is 1 of 2 apps created for a digital B2B marketplace
-#### The apps were created to help distributors and small businesses in Guatemala (and other developing regions) connect more easily and streamline supply chain processes
+#### The apps were created to help distributors and small businesses in Guatemala connect with each other more easily and streamline supply chain processes
 #### The buyer app was made for small businesses like corner shops to be able to source goods for their store
 
 <p align="left">
