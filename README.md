@@ -14,6 +14,9 @@
   <img src="https://github.com/jsebastiane/waybil_buyer/blob/master/playstore_screenshots/screenshot_trackOrders.jpg" width="250" title="hover text">
 </p>
 
+<video src='https://giphy.com/embed/JfDNFU1qOZna' width=180/>
+
+
 ### The buyer app gives users the ability to:
 ####  - Manage stock keeping of multiple businesses
 ####  - View seller inventories
